@@ -1,5 +1,8 @@
 # Gov_COVID_Spending_Analysis
 
+<img width="1226" height="805" alt="image" src="https://github.com/user-attachments/assets/65e31281-4f0b-48cd-b628-433ba493a710" />
+
+
 **Forecasting U.S. Federal COVID Contract Spending**
 
 This project analyzes U.S. federal spending related to COVID-19 using data from USAspending.gov. The goal was to identify spending patterns, explore time-series behavior, and present results through a Tableau dashboard.
